@@ -252,6 +252,7 @@ html, body {
 }
 .homeButon{
   cursor: pointer;
+  margin-right:120px;
 }
 footer {
   display: flex;
@@ -769,6 +770,7 @@ padding-bottom: 100px;
   }
  
 }
+
 
 
 
