@@ -671,7 +671,7 @@ padding-bottom: 100px;
 @media (max-width: 1000px) {
 .homeButon{
   cursor: pointer;
-  margin-right:0px;
+  margin-right:0 !important;
 }
 
   
@@ -776,6 +776,7 @@ padding-bottom: 100px;
   }
  
 }
+
 
 
 
